@@ -5,7 +5,7 @@ I believe in clean code, timeless design, and making the web a better place — 
 
 
 <p align="center">
-  <img src="https://github.com/shale-taspy/shale-taspy/blob/main/download.gif?raw=true" alt="gif">
+  <img src="https://github.com/shale-taspy/shale-taspy/blob/main/readme%20banner.gif?raw=true" alt="gif">
 </p>
 
 ---
